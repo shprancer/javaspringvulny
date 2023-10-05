@@ -26,9 +26,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/users/search/",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/users/search/",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -46,9 +46,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{baseUrl}}/api/jwt/users/search/",
+													"raw": "https://javavulny.prancer.cloud/api/jwt/users/search/",
 													"host": [
-														"{{baseUrl}}"
+														"https://javavulny.prancer.cloud"
 													],
 													"path": [
 														"api",
@@ -84,9 +84,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/users/search/:text",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/users/search/:text",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -111,9 +111,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{baseUrl}}/api/jwt/users/search/:text",
+													"raw": "https://javavulny.prancer.cloud/api/jwt/users/search/:text",
 													"host": [
-														"{{baseUrl}}"
+														"https://javavulny.prancer.cloud"
 													],
 													"path": [
 														"api",
@@ -174,9 +174,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/items/search",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/items/search",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -202,9 +202,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{baseUrl}}/api/jwt/items/search",
+													"raw": "https://javavulny.prancer.cloud/api/jwt/items/search",
 													"host": [
-														"{{baseUrl}}"
+														"https://javavulny.prancer.cloud"
 													],
 													"path": [
 														"api",
@@ -239,9 +239,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/items/search/",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/items/search/",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -259,9 +259,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{baseUrl}}/api/jwt/items/search/",
+													"raw": "https://javavulny.prancer.cloud/api/jwt/items/search/",
 													"host": [
-														"{{baseUrl}}"
+														"https://javavulny.prancer.cloud"
 													],
 													"path": [
 														"api",
@@ -297,9 +297,9 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/items/search/:text",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/items/search/:text",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -324,9 +324,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{baseUrl}}/api/jwt/items/search/:text",
+													"raw": "https://javavulny.prancer.cloud/api/jwt/items/search/:text",
 													"host": [
-														"{{baseUrl}}"
+														"https://javavulny.prancer.cloud"
 													],
 													"path": [
 														"api",
@@ -384,9 +384,9 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseUrl}}/api/jwt/auth/signin",
+									"raw": "https://javavulny.prancer.cloud/api/jwt/auth/signin",
 									"host": [
-										"{{baseUrl}}"
+										"https://javavulny.prancer.cloud"
 									],
 									"path": [
 										"api",
@@ -412,9 +412,9 @@
 											}
 										},
 										"url": {
-											"raw": "{{baseUrl}}/api/jwt/auth/signin",
+											"raw": "https://javavulny.prancer.cloud/api/jwt/auth/signin",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -454,9 +454,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/api/basic/items/search/",
+									"raw": "https://javavulny.prancer.cloud/api/basic/items/search/",
 									"host": [
-										"{{baseUrl}}"
+										"https://javavulny.prancer.cloud"
 									],
 									"path": [
 										"api",
@@ -474,9 +474,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/api/basic/items/search/",
+											"raw": "https://javavulny.prancer.cloud/api/basic/items/search/",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -512,9 +512,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/api/basic/items/search/:text",
+									"raw": "https://javavulny.prancer.cloud/api/basic/items/search/:text",
 									"host": [
-										"{{baseUrl}}"
+										"https://javavulny.prancer.cloud"
 									],
 									"path": [
 										"api",
@@ -539,9 +539,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/api/basic/items/search/:text",
+											"raw": "https://javavulny.prancer.cloud/api/basic/items/search/:text",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -589,9 +589,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/api/token/items/search/",
+									"raw": "https://javavulny.prancer.cloud/api/token/items/search/",
 									"host": [
-										"{{baseUrl}}"
+										"https://javavulny.prancer.cloud"
 									],
 									"path": [
 										"api",
@@ -609,9 +609,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/api/token/items/search/",
+											"raw": "https://javavulny.prancer.cloud/api/token/items/search/",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
@@ -647,9 +647,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/api/token/items/search/:text",
+									"raw": "https://javavulny.prancer.cloud/api/token/items/search/:text",
 									"host": [
-										"{{baseUrl}}"
+										"https://javavulny.prancer.cloud"
 									],
 									"path": [
 										"api",
@@ -674,9 +674,9 @@
 										"method": "GET",
 										"header": [],
 										"url": {
-											"raw": "{{baseUrl}}/api/token/items/search/:text",
+											"raw": "https://javavulny.prancer.cloud/api/token/items/search/:text",
 											"host": [
-												"{{baseUrl}}"
+												"https://javavulny.prancer.cloud"
 											],
 											"path": [
 												"api",
